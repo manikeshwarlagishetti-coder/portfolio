@@ -18,7 +18,7 @@ export const personalInfo = {
   twitterDisplay: "@this_is_manikeshwar",
   credly: "https://www.credly.com/users/manikeshwar-lagishetti/badges",
   credlyDisplay: "credly.com/users/manikeshwar-lagishetti",
-  portfolioUrl: "https://portfolio-prfnyih3s-manikeshwarlagishetti-coders-projects.vercel.app"
+  portfolioUrl: "https://manikeshwar-portfolio.vercel.app/"
 };
 
 export const skillsData = {
